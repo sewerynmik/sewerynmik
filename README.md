@@ -4,5 +4,3 @@
 
 ### 🔥 Aktywność  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=TwojaNazwaGitHub&theme=radical)  
-
-💡 Chcesz porozmawiać o kodzie? Zajrzyj do moich repozytoriów! 🚀  
