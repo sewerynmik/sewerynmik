@@ -8,3 +8,4 @@
 ### 📊 **GitHub w liczbach**
 | ![Statystyki](https://github-readme-stats.vercel.app/api?username=sewerynmik&show_icons=true&theme=dark&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sewerynmik&layout=compact&theme=dark&hide_border=true) |
 |---------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
+
