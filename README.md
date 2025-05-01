@@ -6,6 +6,6 @@
 ---
 
 ### 📊 **GitHub w liczbach**
-| ![Statystyki](https://github-readme-stats.vercel.app/api?username=sewerynmik&show_icons=true&theme=dark&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sewerynmik&layout=compact&theme=dark&hide_border=true) |
+| ![sewerynmik's Stats](https://github-readme-stats.vercel.app/api?username=sewerynmik&theme=radical&show_icons=true&hide_border=true&count_private=true)| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sewerynmik&layout=compact&theme=dark&hide_border=true) |
 |---------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
 
