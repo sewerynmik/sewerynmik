@@ -7,10 +7,7 @@
 
 ### 📊 **GitHub w liczbach**
 
-<div align="center">
-  
-[![Statystyki GitHub](https://github-readme-stats.vercel.app/api?username=sewerynmik&theme=radical&show_icons=true&hide_border=true&count_private=true&include_all_commits=false&count_private=true&custom_title=Statystyki+Github&card_width=450)](https://github.com/sewerynmik)
-[![Najczęstsze języki](https://github-readme-stats.vercel.app/api/top-langs/?username=sewerynmik&theme=radical&hide_border=true&layout=compact&langs_count=8&card_width=300)](https://github.com/sewerynmik)
-
-</div>
-
+<p align="center">
+  <img src="https://readme-stats-github.pages.dev/api?username=sewerynmik&show_icons=true" alt="GitHub Stats" />
+  <img src="https://readme-stats-github.pages.dev/api/top-langs?username=sewerynmik&layout=compact" alt="Top Languages" />
+</p>
