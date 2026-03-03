@@ -8,6 +8,6 @@
 ### 📊 **GitHub w liczbach**
 
 <p align="center">
-  <img src="https://readme-stats-github.pages.dev/api?username=sewerynmik&show_icons=true" alt="GitHub Stats" />
-  <img src="https://readme-stats-github.pages.dev/api/top-langs?username=sewerynmik&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats-roan-chi-90.vercel.app/api?username=sewerynmik&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats-roan-chi-90.vercel.app/api/top-langs/?username=sewerynmik&layout=compact&count_private=true&theme=github_dark&hide_border=true" />
 </p>
